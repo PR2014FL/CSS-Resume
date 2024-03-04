@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family:"Montserrat", sans-serif ;
+}
+
+.main-page {
+    position: relative;
+}
+.ResumeContainer {
+    display: flex;
+    height: 90vh;
+    width:70%;
+  
+}
+aside {
+    width: 30%;
+    height:90vh;
+    background-color: #ccc;
+    padding-top:175px;
+    padding-left: 20px;
+}
+main {
+
+    width: 59%;
+    float: right;
+    padding-top: 175px;
+    padding-left:20px;
+}
+header {
+    position: absolute;
+    top:40px;
+    left: 200px;
+    border: 3px solid black;
+    Width: 400px 
+    
+}
+h5 {
+    
+    font-size: larger;
+    margin-bottom: 0px;
+}
+h1, h3 {
+    text-align:center
+}
+hr {
+    margin-top: 1px;
+}
