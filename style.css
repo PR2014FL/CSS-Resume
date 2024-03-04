@@ -27,6 +27,7 @@ main {
     padding-left:20px;
 }
 header {
+    background-color: white;
     position: absolute;
     top:40px;
     left: 200px;
